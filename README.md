@@ -1,2 +1,2 @@
 # activity-land
-![](Images/1.png)
+<img src ="Images/1.png" width="400>
